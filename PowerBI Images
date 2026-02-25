@@ -1,1 +1,3 @@
-
+git mv "Inventory Optimization.png" "PowerBI Images/Inventory Optimization.png"
+git commit -m "Move Inventory Optimization.png to PowerBI Images folder"
+git push
